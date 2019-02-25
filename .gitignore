@@ -1,0 +1,6 @@
+node_modules/
+logs/
+.env
+app/tmpFiles/*
+.DS_Store
+tmp/
